@@ -1,0 +1,58 @@
+what is python
+vriable decalartion
+input function -> string.
+        implicit type   explicit type
+x = 100
+x1 = float(x)-->
+operators:
+unery,binary,tern...
+
+it requ only 1 operand ++a ,a--
+
+arithmetic :+,-,*,/,%,//,**
+relational : <.,.....
+logical operator : and or not
+membership op : in not in
+identity op : is is not
+asignment op:=, +,,,
+if else
+match case
+loop
+range(10)
+range(1,11)
+range(1,50,5)
+string:
+
+group:array
+
+list:
+1)list is dynamic
+2)list stores data in index
+3)list is iterable
+4)list is subcriptable
+5)list is hterogenius
+6)list is mutable
+7)list allow duplicate elements
+8)list is ordered
+
+
+
+
+
+tuple
+set
+dict
+
+dict:
+{"guj":gan"}
+
+
+
+
+
+
+
+
+
+
+
