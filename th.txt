@@ -48,6 +48,14 @@ dict:
 
 
 
+set:
+set is dynamic:
+set is collection of unique elements
+set is unordered
+set is iterable
+set is mutable
+set is not subcriptable
+
 
 
 
