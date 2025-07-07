@@ -58,7 +58,10 @@ set is not subcriptable
 
 
 
+decorators: decorators are functions that modify the behavior of another function or method.
+decorators are defined using the @ symbol followed by the decorator function name before the function definition.
 
+decorator function will take a function as an argument and return a new function that adds some functionality to the original function.
 
 
 
